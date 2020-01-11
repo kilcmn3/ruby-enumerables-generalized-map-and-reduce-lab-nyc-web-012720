@@ -1,6 +1,6 @@
 # Your Code Here
 require "pp"
 
-def map(a)
+def map(source_array)
 print a
 end
