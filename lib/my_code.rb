@@ -5,6 +5,7 @@ def map(source_array)
   n = []
   i = 0
   while i < source_array.length do
-    n << source_array[i]
+      mapping = n << source_array[i]
+      i += 1
   end
 end
