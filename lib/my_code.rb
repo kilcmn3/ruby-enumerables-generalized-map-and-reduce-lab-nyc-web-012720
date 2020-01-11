@@ -2,6 +2,6 @@
 require "pp"
 
 def map(source_array)
-  new_array = []
+  n = []
 
 end
