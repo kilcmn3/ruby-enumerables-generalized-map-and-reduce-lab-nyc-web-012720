@@ -2,5 +2,5 @@
 require "pp"
 
 def map(source_array)
-print a
+print source_array
 end
