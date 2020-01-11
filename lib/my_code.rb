@@ -1,7 +1,7 @@
 # Your Code Here
 require "pp"
 
-def map(a, b)
+def map(source_array)
   new_array = []
 
 end
