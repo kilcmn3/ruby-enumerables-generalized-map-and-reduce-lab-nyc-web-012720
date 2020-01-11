@@ -2,5 +2,5 @@
 require "pp"
 
 def map(source_array)
-  yield(map)
+  yield(source_array)
 end
